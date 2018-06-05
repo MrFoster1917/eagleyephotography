@@ -1,0 +1,19 @@
+{
+  "name": "eagleeyephotography",
+  "version": "1.0.0",
+  "description": "photography web template/portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Justin K. Foster",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-refresh": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}

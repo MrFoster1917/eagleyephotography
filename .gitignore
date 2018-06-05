@@ -1,0 +1,8 @@
+# Ignore all node_modules files #
+node_modules/*
+
+# Ignore all sass files #
+sass/*
+
+# Ignore gulpfile.js #
+gulpfile.js
